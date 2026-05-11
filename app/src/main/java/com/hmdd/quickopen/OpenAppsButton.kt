@@ -13,7 +13,7 @@ fun OpenAppsButton() {
     val appsToLaunch = listOf(
         "com.kiwibrowser.browser",
         "com.github.android",
-        "com.google.android.apps.gemeni",
+        "com.google.android.apps.bard",
         "com.anthropic.claude",
         "com.deepseek.chat",
         "com.google.android.apps.nbu.files",
